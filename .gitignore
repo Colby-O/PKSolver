@@ -1,0 +1,9 @@
+build/
+*.nii.gz
+*.nii
+*.nrrd
+*.txt
+*.ipynb
+test/
+build/
+test/.ipynb_checkpoints
